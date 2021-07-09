@@ -1,13 +1,25 @@
+The plugin was published and is available here: https://br.wordpress.org/plugins/lb-maintenance-mode/
+
 === LB Maintenance Mode ===
+
 Contributors: baciotti
+
 Donate link: https://www.paypal.com/donate?business=ZTZUNBT2CJ7EU&no_recurring=0&currency_code=BRL
+
 Tags: maintenance, dashboard
+
 Requires at least: 5.7.2
+
 Tested up to: 5.7.2
+
 Stable tag: 1.0.0
+
 Requires PHP: 7.3.21
+
 License: GPLv2 or later
+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
 
 LB Maintenance Mode Plugin is a very simple plugin that creates a option in General Options page on Dashboard to make easier to put your website on maintenance mode.
 
