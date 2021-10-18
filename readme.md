@@ -1,53 +1,62 @@
-The plugin was published and is available here: https://br.wordpress.org/plugins/lb-maintenance-mode/
+# LB Maintenance Mode Plugin
+The plugin was published and is available [here](https://br.wordpress.org/plugins/lb-maintenance-mode/)
 
-=== LB Maintenance Mode ===
+# Contributors
+[baciotti](https://github.com/bacciotti)
 
-Contributors: baciotti
+# Donate 
+[Link](https://www.paypal.com/donate?business=ZTZUNBT2CJ7EU&no_recurring=0&currency_code=BRL)
 
-Donate link: https://www.paypal.com/donate?business=ZTZUNBT2CJ7EU&no_recurring=0&currency_code=BRL
+# Tags
+maintenance, dashboard
 
-Tags: maintenance, dashboard
+# Requirements / Tested on
+- Wordpress 5.7.2  
+- PHP 7.3.21
 
-Requires at least: 5.7.2
+# License
+[GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
 
-Tested up to: 5.7.2
 
-Stable tag: 1.0.0
-
-Requires PHP: 7.3.21
-
-License: GPLv2 or later
-
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
-
+# Description 
 
 LB Maintenance Mode Plugin is a very simple plugin that creates a option in General Options page on Dashboard to make easier to put your website on maintenance mode.
 
-== Description ==
 
 With this plugin it is much easier to put your site in maintenance mode. Simplicity and practicality, that's the goal.
 
-== Frequently Asked Questions ==
+# Frequently Asked Questions
 
-= Will I be locked out of my site? =
+## Will I be locked out of my site?
+No. The administrative page is not inaccessible. Just log in to /wp-login.php.
 
-No. The administrative page is not inaccessible. Just log in to <your-site>/wp-login.php.
-
-= Can I change the message to visitors? =
+## Can I change the message to visitors? 
 
 Not yet. This feature will be available on future versions.
 
-== Screenshots ==
+## Changelog
+### 1.0
+- The deploy on Wordpress directory.
 
-1. A screenshot of plugin working. This is the visitor's view when the option is enabled.
-2. A screenshot of the option added to General Options page.
+### Upgrade Notice
+- 1.0 = This is the first version.
 
-== Changelog ==
+Adds a Map in the Widgets with Shortcode
 
-= 1.0 =
-* The deploy on Wordpress directory.
+## Requirements / Tested on
+![Wordpress 5.8.1](https://img.shields.io/badge/Wordpress-5.8.1-green)  
+![PHP 7.4](https://img.shields.io/badge/PHP-7.4-blue)  
 
-== Upgrade Notice ==
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-= 1.0 =
-This is the first version.
+Please make sure to update tests as appropriate.
+
+## Support and Contact
+Feel free to contact me on [Twitter](twitter.com/baciotti).
+
+
+## Badges
+![GitHub followers](https://img.shields.io/github/followers/bacciotti?style=social)  
+![Twitter Follow](https://img.shields.io/twitter/follow/baciotti?style=social)
+
